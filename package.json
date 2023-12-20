@@ -18,6 +18,7 @@
     "agora-rtm-sdk": "^1.6.0-205",
     "eslint": "8.30.0",
     "eslint-config-next": "13.1.1",
+    "mongodb": "4.1",
     "mongoose": "^6.8.1",
     "next": "13.1.1",
     "react": "18.2.0",
